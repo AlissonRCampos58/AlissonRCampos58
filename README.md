@@ -17,12 +17,12 @@
 
 ---
 
-� Estudiante de primer año de Informática en la UCA
-�� Apasionado por la programación y el desarrollo de software
-�� Actualmente aprendiendo sobre desarrollo móvil y análisis
+🎓 Estudiante de primer año de Informática en la UCA
+🖥️ Apasionado por la programación y el desarrollo de software
+👀 Actualmente aprendiendo sobre desarrollo móvil y análisis
 de datos
 
-## 🛠 &nbsp;Tech Stack
+ 🛠 &nbsp;Tech Stack
 
 #### 🔧 Lenguajes
 
@@ -81,6 +81,7 @@ de datos
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abd.00058026@uca.edu.sv"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:00058026@uca.edu.sv">
+  <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 </div>
